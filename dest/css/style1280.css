@@ -1,0 +1,91 @@
+@media screen and (max-width: 1280px) and (min-width: 1025px) {
+  .wrapper {
+    width: 1024px; }
+  .header__button {
+    display: block; }
+  .header__nav {
+    display: none; }
+    .header__nav__vert {
+      display: block; }
+  .boost__form__input {
+    width: 120px; }
+  .boost_input-button {
+    padding-left: 4px;
+    width: 170px; }
+  .boost__div {
+    margin-left: 20%; }
+  .services__div__aside {
+    width: 420px; }
+  .services__div__aside:nth-of-type(2) {
+    margin-left: 25px; }
+  .services__aside_item__div {
+    width: 330px;
+    margin-left: 10px; }
+  .about {
+    min-height: 323px; }
+    .about__figure__img {
+      height: 323px; }
+    .about__article {
+      padding-top: 30px;
+      width: 390px;
+      margin-right: 50px; }
+      .about__article__content {
+        line-height: 18px; }
+      .about__article__button {
+        margin-top: 23px; }
+  .choose {
+    min-height: 750px;
+    padding-top: 100px; }
+    .choose__items__article {
+      width: 250px; }
+      .choose__items__article__hr {
+        width: 220px; }
+  .how {
+    min-height: 750px;
+    padding-top: 100px; }
+    .how__picts {
+      margin-left: 200px; }
+    .how__figure_one {
+      margin-right: 70px; }
+    .how__figure_two {
+      margin-right: 100px; }
+    .how__items {
+      width: 95%;
+      height: 320px;
+      left: 15px; }
+      .how__items__article {
+        width: 200px;
+        margin-right: 40px; }
+        .how__items__article__figure {
+          margin-bottom: 62px; }
+      .how__items__article:last-child {
+        margin-right: 10px; }
+    .how__button {
+      margin-left: 40%; }
+      .how__button__p {
+        bottom: 48px; }
+  .happy {
+    min-height: 800px;
+    padding-top: 100px; }
+    .happy__aside__content {
+      width: 470px; }
+      .happy__aside__content__figure {
+        margin: 43px 5px 0 5px; }
+      .happy__aside__content__info__div_down_commas {
+        margin: 100px 0 0 -100px; }
+      .happy__aside__content__info__text {
+        width: 300px; }
+  .news {
+    min-height: 1000px;
+    padding-top: 70px; }
+    .news_input-name {
+      width: 250px; }
+    .news_input-email {
+      width: 250px; }
+    .news__article {
+      width: 900px; }
+    .news__footer__line {
+      width: 800px;
+      margin-top: 10px; }
+    .news__footer__links {
+      margin-top: 10px; } }

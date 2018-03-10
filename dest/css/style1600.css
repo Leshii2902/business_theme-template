@@ -1,0 +1,30 @@
+@media screen and (max-width: 1600px) and (min-width: 1281px) {
+  .wrapper {
+    width: 1280px; }
+  .header__nav__vert {
+    display: none; }
+  .boost__form__input {
+    width: 150px; }
+  .boost_input-button {
+    width: 280px;
+    padding-left: 4px; }
+  .boost__div {
+    margin-left: 27%; }
+  .services__div__aside {
+    margin: 0 30px 0 0; }
+  .services__div__aside:nth-of-type(2) {
+    margin-left: 42px; }
+  .about {
+    min-height: 423px; }
+    .about__figure__img {
+      height: 423px; }
+    .about__article {
+      padding-top: 80px; }
+  .choose__items__article {
+    width: 300px; }
+    .choose__items__article__hr {
+      width: 280px; }
+  .how__picts {
+    margin-left: 260px; }
+  .how__items {
+    left: 55px; } }

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<svg xmlns="http://www.w3.org/2000/svg"
+	xmlns:xlink="http://www.w3.org/1999/xlink"
+	width="285px" height="298px" viewBox="0 0 285 298">
+<clipPath id="clip0"><path fillRule="evenodd" d="M-3 301C-3 301-3-3-3-3-3-3 288-3 288-3 288-3 288 301 288 301 288 301-3 301-3 301ZM 142.5 3C 65.46 3 3 65.63 3 142.88 3 217.89 61.89 279.11 135.85 282.59 135.85 282.59 142.97 295 142.97 295 142.97 295 150.12 282.54 150.12 282.54 223.62 278.58 282 217.57 282 142.88 282 65.63 219.54 3 142.5 3Z"/></clipPath><defs>
+<symbol id="symbol0"><path fillRule="evenodd" d="M 150.12 282.54C 150.12 282.54 142.97 295 142.97 295 142.97 295 135.85 282.59 135.85 282.59 61.89 279.11 3 217.89 3 142.88 3 65.63 65.46 3 142.5 3 219.54 3 282 65.63 282 142.88 282 217.57 223.62 278.58 150.12 282.54Z"/></symbol></defs>
+<g><use xlink:href="#symbol0" x="0" y="0" width="285" height="298" fill="rgb(57,75,79)"/><use xlink:href="#symbol0" x="0" y="0" width="285" height="298" fill="none" stroke="rgb(255,255,255)" stroke-width="3.00px" clip-path="url(#clip0)"/></g></svg>
